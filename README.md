@@ -1,4 +1,4 @@
 # IC2 — experimenty s LLM
 
-Samostatný repozitár experimentov školského projektu IC2.
+Samostatný repozitár experimentov projektu do predmetu IC2.
 
